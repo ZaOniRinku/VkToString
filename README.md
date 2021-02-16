@@ -1,5 +1,5 @@
-# VKToString
-**VKToString** is a C/C++ header that translates Vulkan enumerations to ``const char*``.
+# VkToString
+**VkToString** is a C/C++ header that translates Vulkan enumerations to ``const char*``.
 
 Auto-generated from [vk.xml](https://github.com/KhronosGroup/Vulkan-Headers/blob/master/registry/vk.xml).
 ## Download
